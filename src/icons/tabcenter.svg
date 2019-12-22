@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="128" width="128" viewBox="0 0 28 28">
-  <defs>
-    <style>
-      .primary-color {
-        fill: #4d4d4d;
-      }
-    </style>
-  </defs>
-  <path class="primary-color" d="M12,14H7a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z"/>
-  <path class="primary-color" d="M12,10H7a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z"/>
-  <path class="primary-color" d="M24,0H4A4,4,0,0,0,0,4V24a4,4,0,0,0,4,4H24a4,4,0,0,0,4-4V4A4,4,0,0,0,24,0ZM16,23a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2V5A2,2,0,0,1,5,3h9a2,2,0,0,1,2,2Z"/>
-  <path class="primary-color" d="M12,6H7A1,1,0,0,0,7,8h5a1,1,0,0,0,0-2Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 28 28"><defs><style>.primary-color{fill:#4d4d4d}</style></defs><path d="M12,14H7a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z" class="primary-color"/><path d="M12,10H7a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z" class="primary-color"/><path d="M24,0H4A4,4,0,0,0,0,4V24a4,4,0,0,0,4,4H24a4,4,0,0,0,4-4V4A4,4,0,0,0,24,0ZM16,23a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2V5A2,2,0,0,1,5,3h9a2,2,0,0,1,2,2Z" class="primary-color"/><path d="M12,6H7A1,1,0,0,0,7,8h5a1,1,0,0,0,0-2Z" class="primary-color"/></svg>
